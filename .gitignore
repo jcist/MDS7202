@@ -1,0 +1,4 @@
+#ignorar images_lab y secuencia_plaza en gitignore
+/images_lab
+/secuencia_plaza
+plaza.gif
