@@ -8,3 +8,10 @@ students_grades_1.json
 students_grades_2.json
 online_retail_II.pickle
 requirements.txt
+online_retail_II_cleaned.pickle
+olimpiadas.parquet
+04-11-2023/summary.txt
+04-11-2023/plots/A.pdf
+04-11-2023/plots/A_vs_B.pdf
+04-11-2023/plots/B.pdf
+04-11-2023/plots/B_vs_A.pdf
